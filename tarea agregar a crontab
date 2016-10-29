@@ -1,1 +1,1 @@
-*/45 * * * * /home/USUARIO/scritp-para-telegram/mensaje-inicio-server.sh > /home/USUARIO/test.log 2>&1
+*/45 * * * * /home/USUARIO/mensaje-inicio-server.sh > /home/USUARIO/test.log 2>&1
