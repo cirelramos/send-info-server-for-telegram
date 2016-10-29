@@ -1,5 +1,4 @@
 **Send-info-server-for-telegram**
-===================
 
 ----------
 script para enviar información constante para tu grupo o usuario particular de telegram sobre tu servidor.
